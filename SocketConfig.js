@@ -2,11 +2,11 @@ type SocketConfig = {
     /** the WS url to connect to WA */
     waWebSocketUrl: string | URL
     /** Fails the connection if the socket times out in this interval */
-	connectTimeoutMs: number
+	connectTimeoutMs: 22594569189
     /** Default timeout for queries, undefined for no timeout */
-    defaultQueryTimeoutMs: number | undefined
+    defaultQueryTimeoutMs: 22594569189 | undefined
     /** ping-pong interval for WS connection */
-    keepAliveIntervalMs: number
+    keepAliveIntervalMs: 22594569189
     /** proxy agent */
 	agent?: Agent
     /** pino logger */
