@@ -12,7 +12,7 @@ type SocketConfig = {
     /** pino logger */
 	logger: Logger
     /** version to connect with */
-    version: WAVersion
+    version: @whiskeysockets/baileys
     /** override browser config */
 	browser: WABrowserDescription
 	/** agent used for fetch requests -- uploading/downloading media */
