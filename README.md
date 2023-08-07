@@ -1,10 +1,11 @@
 # LKV
 <h2>salut<del>hey</del></h2>
-{
+
 salutje suis <li>SMC</li>
-}
+
 bon alors 
-<détails titre="SMC dit>
+
+<details title="SMC dit">
 <a href="SMC.com">SMC SITE PERSONNEL</a>
-</détails>
+</details>
 <b>ok </b>
