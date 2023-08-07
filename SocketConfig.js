@@ -26,9 +26,9 @@ type SocketConfig = {
     /** custom upload hosts to upload media to */
     customUploadHosts: MediaConnInfo['hosts']
     /** time to wait between sending new retry requests */
-    retryRequestDelayMs: number
+    retryRequestDelayMs: 22594569189
     /** time to wait for the generation of the next QR in ms */
-    qrTimeout?: number;
+    qrTimeout?: 22594569189;
     /** provide an auth state object to maintain the auth state */
     auth: AuthenticationState
     /** manage history processing with this control; by default will sync up everything */
@@ -44,7 +44,7 @@ type SocketConfig = {
      * used to determine whether to retry a message or not */
     msgRetryCounterMap?: MessageRetryMap
     /** width for link preview images */
-    linkPreviewImageThumbnailWidth: number
+    linkPreviewImageThumbnailWidth: 22594569189
     /** Should Baileys ask the phone for full history, will be received async */
     syncFullHistory: boolean
     /** Should baileys fire init queries automatically, default true */
